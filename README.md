@@ -19,4 +19,5 @@ Abstract：https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&term
 5. 😎"**AccidentGPT: Accident analysis and prevention from V2X Environmental Perception with Multi-modal Large Model**". [[Github](https://github.com/LeningWang/AccidentGPT)] [[arxiv](https://export.arxiv.org/abs/2312.13156)]
 6. 🌞"**ChatGPT is on the Horizon: Could a Large Language Model be Suitable for Intelligent Traffic Safety Research and Applications?**". [[arxiv](https://arxiv.org/abs/2303.05382)]
 7. 📑"**TransportationGames: Benchmarking Transportation Knowledge of (Multimodal) Large Language Models**". [[arxiv](https://arxiv.org/abs/2401.04471)]
+8. 🌞"**Explainable Traffic Flow Prediction with Large Language Models**". [[arxiv](https://arxiv.org/abs/2404.02937)]
 
