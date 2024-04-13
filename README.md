@@ -33,4 +33,11 @@ Abstract：https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&term
 19. 😎"**Vision Language Models in Autonomous Driving and Intelligent Transportation Systems**". [[arxiv](https://arxiv.org/abs/2310.14414)]
 20. 🌞"**Receive, Reason, and React: Drive as You Say with Large Language Models in Autonomous Vehicles**". [[arxiv](https://arxiv.org/abs/2310.08034)]
 21. 🌞"**SurrealDriver: Designing Generative Driver Agent Simulation Framework in Urban Contexts based on Large Language Model**". [[arxiv](https://arxiv.org/abs/2309.13193)]
+22. 🌞"**Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles**". [[arxiv](https://arxiv.org/abs/2309.10228)]
+23. 🌞"**TrafficGPT: Viewing, Processing and Interacting with Traffic Foundation Models**". [[Github](https://github.com/lijlansg/TrafficGPT)] [[arxiv](https://arxiv.org/abs/2309.06719)]
+24. 🌞"**Where Would I Go Next? Large Language Models as Human Mobility Predictors**". [[arxiv](https://arxiv.org/abs/2308.15197)]
+25. 🌞"**Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning**". [[arxiv](https://arxiv.org/abs/2308.14284)]
+26. 🌞"**TrafficSafetyGPT: Tuning a Pre-trained Large Language Model to a Domain-Specific Expert in Transportation Safety**". [[arxiv](https://arxiv.org/abs/2307.15311)]
+27. 🌞"**Can ChatGPT Enable ITS? The Case of Mixed Traffic Control via Reinforcement Learning**". [[arxiv](https://arxiv.org/abs/2306.08094)]
+
 
