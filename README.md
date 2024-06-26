@@ -39,5 +39,14 @@ Abstract：https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&term
 25. 🌞"**Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning**". [[arxiv](https://arxiv.org/abs/2308.14284)]
 26. 🌞"**TrafficSafetyGPT: Tuning a Pre-trained Large Language Model to a Domain-Specific Expert in Transportation Safety**". [[arxiv](https://arxiv.org/abs/2307.15311)]
 27. 🌞"**Can ChatGPT Enable ITS? The Case of Mixed Traffic Control via Reinforcement Learning**". [[arxiv](https://arxiv.org/abs/2306.08094)]
+28. 🌞"**Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation**". [[arxiv](https://arxiv.org/abs/2405.19255)]
+29. 🌞"**Semantic Trajectory Data Mining with LLM-Informed POI Classification**". [[arxiv](https://arxiv.org/abs/2405.11715)]
+30. 🌞"**Traffic Performance GPT (TP-GPT): Real-Time Data Informed Intelligent ChatBot for Transportation Surveillance and Management**". [[arxiv](https://arxiv.org/abs/2405.03076)]
+31. 🌞"**Large Language Models for Mobility in Transportation Systems: A Survey on Forecasting Tasks**". [[arxiv](https://arxiv.org/abs/2405.02357)]
+32. 🌞"**Large Language Models for Synthetic Participatory Planning of Synergistic Transportation Systems**". [[arxiv](https://arxiv.org/abs/2404.12317)]
+33. 🌞"**Multimodal Road Network Generation Based on Large Language Model**". [[arxiv](https://arxiv.org/abs/2404.06227)]
+34. 🌞"**Towards Responsible and Reliable Traffic Flow Prediction with Large Language Models**". [[arxiv](https://arxiv.org/abs/2404.02937)]
+35. 🌞"**Large Language Models Powered Context-aware Motion Prediction**". [[arxiv](https://arxiv.org/abs/2403.11057)]
+36. 🌞"**Many-Objective Multi-Solution Transport**". [[arxiv](https://arxiv.org/abs/2403.04099)]
 
 
